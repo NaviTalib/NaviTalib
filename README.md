@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **C,C++ and JavaScript.**
 
-- 📫 How to reach me **talibali786.ta@gamilc.com**
+- 📫 How to reach me **talibali786.ta@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
