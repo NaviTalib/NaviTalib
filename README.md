@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/talibali786" target="blank"><img src="https://img.shields.io/twitter/follow/talibali786?logo=twitter&style=for-the-badge" alt="talibali786" /></a> </p>
 
-- 🔭 I’m currently working on **API's**
+- 🔭 I’m currently working on [Weather App](https://navitalib.github.io/weatherapp-using-js/)
 
 - 🌱 I’m currently learning **MERN**
 
