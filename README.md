@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navi Talib</h1>
-<h3 align="center">I'm a Backend support executive and learning Web Development with MERN STACK | HTML5 | CSS3 | JAVASCRIPT | SQL | MONGODB| JQUERY | NODE-JS | EXPRESS-JS | REACT</h3>
+<h3 align="center">BCA * Computer Science, learning Web Development with MERN STACK | HTML5 | CSS3 | JAVASCRIPT | SQL | MONGODB| JQUERY | NODE-JS | EXPRESS-JS | REACT</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navitalib&label=Profile%20views&color=0e75b6&style=flat" alt="navitalib" /> </p>
 
