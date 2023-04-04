@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navitalib" alt="navitalib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/talibali786" target="blank"><img src="https://img.shields.io/twitter/follow/talibali786?logo=twitter&style=for-the-badge" alt="NaviCodes_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NaviCodes_" target="blank"><img src="https://img.shields.io/twitter/follow/NaviCodes_?logo=twitter&style=for-the-badge" alt="NaviCodes_" /></a> </p>
 
-- 🔭 I’m currently working on [Weather App](https://navitalib.github.io/weatherapp-using-js/)
+- 🔭 I’m currently working on [Blog Website](https://github.com/NaviTalib/Blog_website)
 
 - 🌱 I’m currently learning **MERN**
 
