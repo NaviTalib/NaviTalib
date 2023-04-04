@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaviTalib](https://github.com/NaviTalib)
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,Bootstrap,JavaScript,Node.Js,Express.Js,EJS**
 
 - 📫 How to reach me **talibali786.ta@gamil.com**
 
