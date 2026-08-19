@@ -19,7 +19,7 @@ Java | JavaScript | Python | HTML5 | CSS3<br><br>
 * Git & GitHub | VS Code | Node.js | React | SQL<br><br>
 
 
-### 🤝 Connect with Me<br><br>* 
+### 🤝 Connect with Me<br><br>
 **GitHub:** [github.com/NaviTalib]<br>* 
 **LinkedIn:** [https://www.linkedin.com/in/navi-talib-107b55203/]<br>* 
 **Email:** navit30009@gmail.com
