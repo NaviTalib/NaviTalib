@@ -1,7 +1,5 @@
 <div align="center">
 
-# 💫 About Me
-
 ### **Navi Talib**
 *Tech Enthusiast | MCA Graduate | Full-Stack Developer*
 
