@@ -1,34 +1,37 @@
-# 💫 About Me:
+<div align="center">
 
-**Navi Talib**<br><br>
+# 💫 About Me
 
-*Tech Enthusiast | MCA Graduate | Full-Stack Developer*<br><br>
+### **Navi Talib**
+*Tech Enthusiast | MCA Graduate | Full-Stack Developer*
 
-* 🎓 **Education:** Master of Computer Applications (MCA) & Bachelor of Computer Applications (BCA)<br>
-* 💻 **Tech Stack:** Passionate about building robust software, solving algorithmic challenges, and exploring modern web development.<br>
-* 🚀 **Current Focus:** Sharpening core programming concepts, building full-stack applications, and writing clean, maintainable code.<br>
-* 📈 **Beyond Code:** Tech blogging, fitness, and financial markets.<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navi-talib-107b55203/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaviTalib)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navit30009@gmail.com)
 
+</div>
 
-### 🛠️ Languages & Tools<br><br>
+---
 
-**Languages**<br>
-* Java | JavaScript | Python | HTML5 | CSS3<br><br>
+### 📖 Bio
+* 🎓 **Education:** Master of Computer Applications (MCA) & Bachelor of Computer Applications (BCA)
+* 💻 **Tech Stack:** Passionate about building robust software, solving algorithmic challenges, and exploring modern web development.
+* 🚀 **Current Focus:** Sharpening core programming concepts, building full-stack applications, and writing clean, maintainable code.
+* 📈 **Beyond Code:** Tech blogging, fitness, and financial markets.
 
-**Developer Tools & Frameworks**<br><br>
-* Git & GitHub | VS Code | Node.js | React | SQL<br><br>
+---
 
+### 🛠️ Languages & Tools
 
-### 🤝 Connect with Me<br><br>
-* **GitHub:** [[github.com/NaviTalib](https://github.com/NaviTalib)]<br>
-* **LinkedIn:** [[https://www.linkedin.com/in/navi-talib-107b55203/](https://www.linkedin.com/in/navi-talib-107b55203/)]<br>
-* **Email:** navit30009@gmail.com<br>
+* **Languages:** Java | JavaScript | Python | HTML5 | CSS3
+* **Developer Tools & Frameworks:** Git & GitHub | VS Code | Node.js | React | SQL
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navi-talib-107b55203/) 
+<div align="center">
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -36,9 +39,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -57,13 +62,27 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NaviTalib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NaviTalib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NaviTalib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=NaviTalib&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com/?user=NaviTalib&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=NaviTalib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=NaviTalib&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
