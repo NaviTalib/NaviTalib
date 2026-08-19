@@ -66,5 +66,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://glitch.me)
+![Visitor Count](https://seeyoufarm.com)
 
