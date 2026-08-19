@@ -15,7 +15,6 @@ Java | JavaScript | Python | HTML5 | CSS3<br><br>
 **Developer Tools & Frameworks**<br><br>
 * Git & GitHub | VS Code | Node.js | React | SQL<br><br>---<br><br>
 
-### 📊 GitHub Stats<br><br>---<br><br>
 
 ### 🤝 Connect with Me<br><br>* 
 **GitHub:** [github.com/NaviTalib]<br>* 
