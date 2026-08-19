@@ -7,7 +7,10 @@
 * 🎓 **Education:** Master of Computer Applications (MCA) & Bachelor of Business Administration (BBA)<br>
 * 💻 **Tech Stack:** Passionate about building robust software, solving algorithmic challenges, and exploring modern web development.<br>
 * 🚀 **Current Focus:** Sharpening core programming concepts, building full-stack applications, and writing clean, maintainable code.<br>
-* 📈 **Beyond Code:** Tech blogging, fitness, and financial markets.<br><br>---<br><br>### 🛠️ Languages & Tools<br><br>
+* 📈 **Beyond Code:** Tech blogging, fitness, and financial markets.<br><br>---<br><br>
+
+
+### 🛠️ Languages & Tools<br><br>
 
 **Languages**<br><br>*
 Java | JavaScript | Python | HTML5 | CSS3<br><br>
