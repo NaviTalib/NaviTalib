@@ -66,5 +66,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://seeyoufarm.com)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=NaviTalib&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
