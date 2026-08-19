@@ -20,8 +20,8 @@
 
 
 ### 🤝 Connect with Me<br><br>
-* **GitHub:** [github.com/NaviTalib]<br>
-* **LinkedIn:** [https://www.linkedin.com/in/navi-talib-107b55203/]<br>
+* **GitHub:** [[github.com/NaviTalib](https://github.com/NaviTalib)]<br>
+* **LinkedIn:** [[https://www.linkedin.com/in/navi-talib-107b55203/](https://www.linkedin.com/in/navi-talib-107b55203/)]<br>
 * **Email:** navit30009@gmail.com<br>
 
 
