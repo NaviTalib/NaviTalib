@@ -12,8 +12,8 @@
 
 ### 🛠️ Languages & Tools<br><br>
 
-**Languages**<br><br>*
-Java | JavaScript | Python | HTML5 | CSS3<br><br>
+**Languages**<br>
+* Java | JavaScript | Python | HTML5 | CSS3<br><br>
 
 **Developer Tools & Frameworks**<br><br>
 * Git & GitHub | VS Code | Node.js | React | SQL<br><br>
