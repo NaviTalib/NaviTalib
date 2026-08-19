@@ -66,6 +66,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com)](https://itsvg.in)
+[![](https://github.com/NaviTalib)](https://itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
