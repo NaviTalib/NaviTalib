@@ -20,9 +20,9 @@ Java | JavaScript | Python | HTML5 | CSS3<br><br>
 
 
 ### 🤝 Connect with Me<br><br>
-**GitHub:** [github.com/NaviTalib]
-**LinkedIn:** [https://www.linkedin.com/in/navi-talib-107b55203/]
-**Email:** navit30009@gmail.com
+* **GitHub:** [github.com/NaviTalib]<br>
+* **LinkedIn:** [https://www.linkedin.com/in/navi-talib-107b55203/]<br>
+* **Email:** navit30009@gmail.com<br>
 
 
 ## 🌐 Socials:
